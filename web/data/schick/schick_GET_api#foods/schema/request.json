@@ -1,0 +1,27 @@
+{
+  "type": "request",
+  "data": {
+    "schemaData": {
+      "type": "object",
+      "required": [
+        "categoryId"
+      ],
+      "properties": {
+        "categoryId": {
+          "type": "string",
+          "description": "CategoryId"
+        },
+        "pageSize": {
+          "type": "Number",
+          "description": "Number item per page"
+        },
+        "current": {
+          "type": "Number",
+          "description": "Page Number"
+        }
+      }
+    }
+  },
+  "interfaceUniqId": "9a873074-eb34-4500-9f3f-09cd816592a2",
+  "uniqId": "0f8c5138-d6a5-4879-8bd0-0012b6eb86e4"
+}

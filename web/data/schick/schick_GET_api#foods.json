@@ -1,0 +1,10 @@
+{
+  "protocol": "http",
+  "pathname": "api/foods",
+  "method": "GET",
+  "projectUniqId": "c640e527-206e-47e1-a2ed-45713f6e984b",
+  "description": "list foods",
+  "currentScene": "manydata",
+  "proxyConfig": {},
+  "uniqId": "9a873074-eb34-4500-9f3f-09cd816592a2"
+}

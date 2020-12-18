@@ -1,0 +1,45 @@
+{
+  "sceneName": "Success",
+  "data": {
+    "list": [
+      {
+        "id": 1,
+        "image": "https://picsum.photos/200",
+        "title": "Schicken - Khâm Thiên"
+      },
+      {
+        "id": 2,
+        "image": "https://picsum.photos/200",
+        "title": "Schicken - Nguyễn Trãi"
+      },
+      {
+        "id": 3,
+        "image": "https://picsum.photos/200",
+        "title": "Schicken - Cầu Giấy"
+      },
+      {
+        "id": 4,
+        "image": "https://picsum.photos/200",
+        "title": "Schicken - Long Biên"
+      },
+      {
+        "id": 5,
+        "image": "https://picsum.photos/200",
+        "title": "Schicken - Hà Đông"
+      },
+      {
+        "id": 6,
+        "image": "https://picsum.photos/200",
+        "title": "Schicken - Nam Từ Liêm"
+      }
+    ],
+    "total": 0
+  },
+  "interfaceUniqId": "4598b043-24df-47d3-931d-95cbf7495f00",
+  "contextConfig": {
+    "responseDelay": 0,
+    "responseStatus": 200,
+    "responseHeaders": {}
+  },
+  "uniqId": "5e7c03ad-3e7d-4e19-8379-bcfe908cf3c2"
+}

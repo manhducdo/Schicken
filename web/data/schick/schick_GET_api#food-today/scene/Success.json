@@ -1,0 +1,55 @@
+{
+  "sceneName": "Success",
+  "data": {
+    "list": [
+      {
+        "id": 1,
+        "title": "Cơm Tỏi Xối Basic",
+        "image": "https://picsum.photos/150"
+      },
+      {
+        "id": 2,
+        "title": "Cơm Tỏi Xối Basic",
+        "image": "https://picsum.photos/150"
+      },
+      {
+        "id": 3,
+        "title": "Cơm Tỏi Xối Basic",
+        "image": "https://picsum.photos/150"
+      },
+      {
+        "id": 4,
+        "title": "Cơm Tỏi Xối Basic",
+        "image": "https://picsum.photos/150"
+      },
+      {
+        "id": 5,
+        "title": "Cơm Tỏi Xối Basic",
+        "image": "https://picsum.photos/150"
+      },
+      {
+        "id": 6,
+        "title": "Cơm tỏi sối Basic",
+        "image": "https://picsum.photos/150"
+      },
+      {
+        "id": 7,
+        "title": "Cơm Tỏi Xối Basic",
+        "image": "https://picsum.photos/150"
+      },
+      {
+        "id": 8,
+        "title": "Cơm Tỏi Xối Basic",
+        "image": "https://picsum.photos/150"
+      }
+    ],
+    "total": 100
+  },
+  "interfaceUniqId": "4765e8a9-333b-4d55-900a-dfb6efaf73ec",
+  "contextConfig": {
+    "responseDelay": 0,
+    "responseStatus": 200,
+    "responseHeaders": {}
+  },
+  "uniqId": "45165d10-d56c-4d59-955e-64bb5f7b114f"
+}

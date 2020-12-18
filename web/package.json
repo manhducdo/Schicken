@@ -1,0 +1,51 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "umi dev",
+    "build": "umi build",
+    "postinstall": "umi generate tmp",
+    "prettier": "prettier --write '**/*.{js,jsx,tsx,ts,less,md,json}'",
+    "test": "umi-test",
+    "test:coverage": "umi-test --coverage"
+  },
+  "gitHooks": {
+    "pre-commit": "lint-staged"
+  },
+  "lint-staged": {
+    "*.{js,jsx,less,md,json}": [
+      "prettier --write"
+    ],
+    "*.ts?(x)": [
+      "prettier --parser=typescript --write"
+    ]
+  },
+  "dependencies": {
+    "@ant-design/pro-layout": "^5.0.12",
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "@fortawesome/react-fontawesome": "^0.1.13",
+    "@umijs/preset-react": "1.x",
+    "@umijs/test": "^3.3.1",
+    "lint-staged": "^10.0.7",
+    "prettier": "^1.19.1",
+    "querystring": "^0.2.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-otp-input": "^2.3.0",
+    "react-weui": "^1.2.3",
+    "register-service-worker": "^1.7.2",
+    "swiper": "^6.4.1",
+    "umi": "^3.3.1",
+    "weui": "1.1.0",
+    "workbox-cacheable-response": "^6.0.2",
+    "workbox-expiration": "^6.0.2",
+    "workbox-precaching": "^6.0.2",
+    "workbox-routing": "^6.0.2",
+    "workbox-strategies": "^6.0.2",
+    "workbox-webpack-plugin": "^6.0.2",
+    "yorkie": "^2.0.0"
+  },
+  "devDependencies": {
+    "umi-plugin-datahub": "^5.0.1"
+  }
+}

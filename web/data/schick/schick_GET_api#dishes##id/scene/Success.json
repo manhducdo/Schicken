@@ -1,0 +1,23 @@
+{
+  "sceneName": "Success",
+  "data": {
+    "list": [
+      {
+        "id": 1,
+        "name": "Cơm gà xối Basic",
+        "image": "https://picsum.photos/200",
+        "mainDishes": "* 4 Món Chính: 110Gram Ba Chỉ Heo, 1 Thố Cơm Japonia, 1 Bát Canh Chua, Lòng Mề Xào.",
+        "sideDishes": "* 3 Món Phụ: Trứng Cuộn, Rau Luộc, Hoa Quả.",
+        "getFree": "* Free: Tăm Nha Khoa, Khăn Lạnh, Găng Tay"
+      }
+    ],
+    "total": 100
+  },
+  "interfaceUniqId": "996cc34a-95f8-49aa-862a-ba0cde439e58",
+  "contextConfig": {
+    "responseDelay": 0,
+    "responseStatus": 200,
+    "responseHeaders": {}
+  },
+  "uniqId": "19544fe7-b2e1-41ab-a467-ab8c79715ea9"
+}

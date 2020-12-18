@@ -1,0 +1,10 @@
+{
+  "protocol": "http",
+  "pathname": "api/store",
+  "method": "GET",
+  "projectUniqId": "c640e527-206e-47e1-a2ed-45713f6e984b",
+  "description": "stores",
+  "currentScene": "Success",
+  "proxyConfig": {},
+  "uniqId": "4598b043-24df-47d3-931d-95cbf7495f00"
+}

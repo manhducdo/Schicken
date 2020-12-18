@@ -1,0 +1,10 @@
+{
+  "protocol": "http",
+  "pathname": "api/dishes/:id",
+  "method": "GET",
+  "projectUniqId": "c640e527-206e-47e1-a2ed-45713f6e984b",
+  "description": "food detail",
+  "currentScene": "Success",
+  "proxyConfig": {},
+  "uniqId": "996cc34a-95f8-49aa-862a-ba0cde439e58"
+}

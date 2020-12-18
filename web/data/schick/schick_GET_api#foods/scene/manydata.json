@@ -1,0 +1,20 @@
+{
+  "sceneName": "manydata",
+  "data": {
+    "list": [
+      {
+        "id": 1,
+        "name": "Cơm",
+        "image": "https://picsum.photos/200",
+        "price": 50
+      }
+    ]
+  },
+  "interfaceUniqId": "9a873074-eb34-4500-9f3f-09cd816592a2",
+  "contextConfig": {
+    "responseDelay": 0,
+    "responseStatus": 200,
+    "responseHeaders": {}
+  },
+  "uniqId": "0259d218-f5ed-4efa-aa85-0c4943ccbd23"
+}

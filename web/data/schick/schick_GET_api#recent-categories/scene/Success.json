@@ -1,0 +1,40 @@
+{
+  "sceneName": "Success",
+  "data": {
+    "list": [
+      {
+        "id": 1,
+        "title": "Món nổi",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "id": 2,
+        "title": "Set cơm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "id": 3,
+        "title": "Nước uống",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "id": 4,
+        "title": "Topping c...",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "id": 5,
+        "title": "Đồ nhậu",
+        "image": "https://picsum.photos/200"
+      }
+    ],
+    "total": 100
+  },
+  "interfaceUniqId": "1da34768-48db-46ce-9951-b9aa5bfb4c06",
+  "contextConfig": {
+    "responseDelay": 0,
+    "responseStatus": 200,
+    "responseHeaders": {}
+  },
+  "uniqId": "55e72d60-312b-4266-b965-178ef30a4581"
+}

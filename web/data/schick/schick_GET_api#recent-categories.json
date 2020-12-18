@@ -1,0 +1,10 @@
+{
+  "protocol": "http",
+  "pathname": "api/recent-categories",
+  "method": "GET",
+  "projectUniqId": "c640e527-206e-47e1-a2ed-45713f6e984b",
+  "description": "recent type of foods",
+  "currentScene": "Success",
+  "proxyConfig": {},
+  "uniqId": "1da34768-48db-46ce-9951-b9aa5bfb4c06"
+}
